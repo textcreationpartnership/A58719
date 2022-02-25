@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent the Sumptuary Act, 1684</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58719</idno>
+            <idno type="STC">Wing S1693</idno>
+            <idno type="STC">ESTC R6602</idno>
+            <idno type="EEBO-CITATION">13704282</idno>
+            <idno type="OCLC">ocm 13704282</idno>
+            <idno type="VID">101474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent the Sumptuary Act, 1684</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, printer to His Most Sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sumptuary laws --  Scotland --  Early works to 1800.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Broadsides --  Scotland --  Edinburgh (Lothian) --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:101474:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QUI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Anent the Sumptuary Act, 1684.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith;</signed>
+               <salute>To Our Lovits,  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of Our Privy Council, and Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſe<g ref="char:EOLhyphen"/>verally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as We, with advice and conſent of Our Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, have taken ſpecial care to reſtrain the expenſive vanity of wearing Cloathes, and the exorbitant <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pences at Baptiſms, Marriages, and Burials; and particularly by the twelith and fourteenth <hi>Acts</hi> of O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rent <hi>Parliament,</hi> The wearing of all Flour'd, Strip'd, Figur'd, Chequered, printed or painted Silk Stuffs, or Ribbans, are <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>preſly diſcharged to be worn by any of Our Subjects within this Kingdom of what degree or quality ſoever, in manner, and under <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Certifications contained in the ſaid twelfth <hi>Act.</hi> And whereas the ſaid fourteenth <hi>Act</hi> of Our ſaid current <hi>Parliament,</hi> Intituled,  <hi>
+                  <unclear>ActRe</unclear>ſtraining the exorbitant Expences of Marriages, Baptiſms, Burials, and penny Weddings,</hi> the ſame is regulate in the way and manner th<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>in preſcribed; yet ſeveral Women, even in Our Capital City of <hi>Edinburgh,</hi> and elſewhere throughout this Our Kingdom, have preſum<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to go abroad with Cloathes made of the ſaid prohibited Stuffs, upon pretext that they are only Night-Gowns, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndreſſes, or Mant<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> whereas all manner of wearing of the ſaids Stuffs is expreſly prohibited and diſcharged, under the penalty of five hundred Merks o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money, <hi>toties quoties,</hi> by and attour the Confiſcation of the ſaids Cloaths. As alſo, ſeveral perſons to elude the Law in down-right mockery, and contempt of the ſame, have preſumed to wear and make uſe of long black Mandel-Coats (which are indeed more expen<g ref="char:EOLhyphen"/>ſive to Our Lieges then the Clocks formerly worn at Burials and other occaſions, upon the death of their Relations) albeit the wearing of Mourning Clocks be by the ſaid fourteenth <hi>Act</hi> diſcharged, under the penalty of one hundred pounds <hi>Scots;</hi> As al<g ref="char:EOLhyphen"/>ſo, ſeveral perſons have lately run to that hight of extravagancy, as to cauſe cover the Coffins of Perſons to be Buried, with fine black Cloath and Fringes, of purpoſe to elude the intent of the ſaid <hi>Act</hi> of <hi>Parliament,</hi> made <hi>for reſtraining the exorbitant Expences of Burials,</hi> &amp;c. And divers perſons have preſumed, ſince the date of the ſaid <hi>Act,</hi> to make penny Weddings, where great confluence of Our Subjects have reſorted, which is a moſt extravagant expence to Our Lieges; albeit by the ſaid fourteenth <hi>Act, The Maſter of the Houſe, where the ſaid penny Weddings are keeped, either within Burgh or Subu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bs, or within two miles of the ſame are ordainted to be Fined in the ſum of five hundred merks.</hi> For preventing of which abuſes, and putting the ſaids Laws ſtrictly in Execution; We, with advice of the Lords of Our Privy Council, Do hereby ſtrictly Prohibite and Diſcharge all Our Subjects within this Our Kingdom, of whatſomever degree or quality, to wear, and go abroad with any of the ſaids prohibite Stuffs, either in Gowns, Man<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ois, Un<g ref="char:EOLhyphen"/>dreſſes, Night-gowns, or any other manner of wearing whatſomever. As likewiſe D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prohibite and Diſcharge all wearing of the ſaids long black Mandel Coats at Burials, or any other occaſions: and more eſpecially, diſcharges all Merchants, Taylors, or others, to Set, or Let out the ſaids long Coats for Hire, and that under the pain contained in the ſaid fourteenth <hi>Act</hi> of Our cur<g ref="char:EOLhyphen"/>rent <hi>Parliament,</hi> to be inflicted on theſe who ſhall Hire or Let the ſame, as well as the Wearers. And prohibite and diſcharge any perſon whatſoever to make uſe of any Coffins for their Friends or Relations covered with Silk, Cloa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, Stuffs, Baizes or F<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges; or whereupon there is any Carving, or Mullering, or Braſſe or Iron Work thereupon for Ornament, allowinog only ſo much as ſhall be for neceſſary uſe: Diſcharging all Carpenters and others, of making ſuch Coffins, or any to make uſe of them, under the penalty of an hundred pound Scots, <hi>toties quoties:</hi> As alſo, Diſcharges the ſaids penny Weddings, un<g ref="char:EOLhyphen"/>der the foreſaid penalty, contained in the ſaid <hi>Act</hi> of <hi>Parliament.</hi> And do hereby ſtrictly Require and Command all Our Judges and Magiſtrats in Burgh and Landward, <hi>reſpective,</hi> to call and conveen before them, the Contraveeners of the foreſaids Laws and Acts <hi>reſpective,</hi> and to inflict on them the Penalties contained therein, after the Form and Tenor thereo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and of this Our Proclamation, in all points, under the Penalty of being called and purſued before Our Privy Council, for their neglect And to the effect Our Pleaſure in the Premiſſes may be made known; Our Will is, and We Charge you ſtrictly, and Command, that incontinent, theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burgh,</hi> and remanent Mercat Croſſes in the head Burghs of the Shires of this Kingdom, and other places needful, and there, in Our Name and Authority, by open Proclamation, make publication of the Premiſſes, that all perſons concerned may have notice thereof and give obedience <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to, as they will be anſwerable The which to do. We commit to you, conjunctly and ſeverally, Our full power, by <unclear>thir</unclear> Our L<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ters, delivering them by you, duely execute, and indorſed again to the Bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty fourth day of <hi>April,</hi> One thouſand ſix hundred eighty and four. And of Our Reign, the thirtieth and ſixth Year. 1684.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij.
+<hi>WILL. PATERSON,</hi> Cls. Sti. Concilij.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
